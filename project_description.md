@@ -19,12 +19,12 @@ Plan:
     - Cross-validation 
 
 I expect to use the following tools, technologies, and libraries for this project:
--Git
--GitHub
--Visual Studio Code
--Docker
--Jupyter Notebook
--HPC/Compute Canada
--Data Visualization (matplotlib, seaborn, plotly, pywidgets)
--Machine learning packages (nilearn, scikit-learn)
--Bash Terminal
+- Git
+- GitHub
+- Visual Studio Code
+- Docker
+- Jupyter Notebook
+- HPC/Compute Canada
+- Data Visualization (matplotlib, seaborn, plotly, pywidgets)
+- Machine learning packages (nilearn, scikit-learn)
+- Bash Terminal
