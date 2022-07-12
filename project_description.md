@@ -15,7 +15,7 @@ With the knowledge acquired from this class, I will test whether machine learnin
    - After this class : redo seed-to-voxel correlation and apply the SAME brain mask for all participants 
 2. Start with dimensionality reduction 
     - Principal Component Analysis
-    - 550 participants, 10% rule = 50 features 
+    - Find the number of features that explain maximum variance 
 3. Classifier
     - Cross-validation 
 
