@@ -23,9 +23,8 @@ With the knowledge acquired from this class, I will test whether machine learnin
 - Git
 - GitHub
 - Visual Studio Code
-- Docker
 - Jupyter Notebook
-- HPC/Compute Canada
 - Data Visualization (matplotlib, seaborn, plotly, pywidgets)
 - Machine learning packages (nilearn, scikit-learn)
 - Bash Terminal
+
