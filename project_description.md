@@ -1,0 +1,5 @@
+In the present project, we address the research question on whether young adult individuals present differences in the pattern of rs-fMRI functional connectivity within the language network based on their sex. To address this issue, we propose to determine whether we can classify healthy young adult men and women, based on their rs-fMRI functional connectivity profiles within the language network. 
+
+The rs-fMRI images were issued from the human connectome project (HCP) S1200 release datatbase (Van Essen et al., 2012). The rs-fMRI images of a total of 667 healthy adults (322 men and 345 women, age: 22-35 years) were included in the study. First, for each participant, we extracted the functional connectivity networks anchored in the core regions of the language network from rs-fMRI data. This step is completed. 
+
+With the knowledge acquired from this class, I will test whether machine learning models can accurately classify men and women based on their functional connectivity language maps within the language network. Subsequently, I will determine which are the most discriminant functional connectivity features that allow this classification.
