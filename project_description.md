@@ -16,7 +16,7 @@ With the knowledge acquired from this class, I will test whether machine learnin
 2. Start with dimensionality reduction 
     - Principal Component Analysis
     - Find the number of features that explain maximum variance 
-3. Classifier
+3. Classifier [ à déterminer]
     - Cross-validation 
 
 ## I expect to use the following tools, technologies, and libraries for this project:
