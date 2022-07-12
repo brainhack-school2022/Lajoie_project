@@ -1,3 +1,4 @@
+# Project Description
 Sex differences in the language network is a long lasting and unresolved debate in the neuroscience field. Clinical studies have shown that pathologies or developmental conditions affecting language functions can differently affect individuals based on their sex (Cahill, 2006; Icer et al., 2020).
 
 Although the language network is bilaterally organized, the left hemisphere is dominant for language in most individuals (Knect et al., 2000). Differences between men and women in the functional language network could explain sex differences in clinical conditions and offer insight for the development of interventions based on individuals’ characteristics. However, whether and how sex impacts the functional language network organization is still largely unknown
@@ -8,7 +9,7 @@ The rs-fMRI images were issued from the human connectome project (HCP) S1200 rel
 
 With the knowledge acquired from this class, I will test whether machine learning models can accurately classify men and women based on their functional connectivity language maps within the language network. Subsequently, I will determine which are the most discriminant functional connectivity features that allow this classification.
 
-Plan: 
+## Plan: 
 1. Make sure all participants have the same number of voxels 
    - For now : chose the intersection of all masks since each participant has a different brain mask applied :( 
    - After this class : redo seed-to-voxel correlation and apply the SAME brain mask for all participants 
@@ -18,7 +19,7 @@ Plan:
 3. Classifier
     - Cross-validation 
 
-I expect to use the following tools, technologies, and libraries for this project:
+## I expect to use the following tools, technologies, and libraries for this project:
 - Git
 - GitHub
 - Visual Studio Code
