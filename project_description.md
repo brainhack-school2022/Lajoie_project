@@ -30,3 +30,8 @@ With the knowledge acquired from this class, I will test whether machine learnin
 - Machine learning packages (nilearn, scikit-learn)
 - Bash Terminal
 
+## Deliverables 
+-  Seed-to-voxel code 
+-  Jupyter notebook containing interactive plots and the predictive models with evaluation metrics
+-  Presentation slides
+-  Project Report
