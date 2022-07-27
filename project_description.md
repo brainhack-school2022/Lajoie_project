@@ -46,7 +46,7 @@ With the knowledge acquired from this class, I will test whether machine learnin
 
 2. Results from the Linear SVC classifier 
 
-file:///home/xlajoie/Pictures/Screenshot%20from%202022-07-27%2015-31-33.png![image](https://user-images.githubusercontent.com/90349544/181356687-20731893-0c5a-48e5-9a9f-d460faf0657d.png)
+![image](https://user-images.githubusercontent.com/90349544/181356687-20731893-0c5a-48e5-9a9f-d460faf0657d.png)
 
 accuracy (r2) = 0.875
 
