@@ -21,10 +21,9 @@ With the knowledge acquired from this class, I will test whether machine learnin
 3. Linear SVC
     - Cross-validation 
 
-### I expect to use the following tools, technologies, and libraries for this project:
+### Tools, technologies, and libraries I learnt and used for this project:
 - Git
 - GitHub
-- Visual Studio Code
 - Jupyter Notebook
 - Data Visualization (matplotlib, seaborn, plotly, pywidgets)
 - Machine learning packages (nilearn, scikit-learn)
