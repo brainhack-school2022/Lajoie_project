@@ -11,7 +11,7 @@ The rs-fMRI images were issued from the human connectome project (HCP) S1200 rel
 
 With the knowledge acquired from this class, I will test whether machine learning models can accurately classify men and women based on their functional connectivity language maps within the language network. Subsequently, I will determine which are the most discriminant functional connectivity features that allow this classification.
 
-## Plan: 
+### Plan: 
 1. Make sure all participants have the same number of voxels 
    - For now : chose the intersection of all masks since each participant has a different brain mask applied :( 
    - After this class : redo seed-to-voxel correlation and apply the SAME brain mask for all participants 
@@ -21,7 +21,7 @@ With the knowledge acquired from this class, I will test whether machine learnin
 3. Classifier [ à déterminer]
     - Cross-validation 
 
-## I expect to use the following tools, technologies, and libraries for this project:
+### I expect to use the following tools, technologies, and libraries for this project:
 - Git
 - GitHub
 - Visual Studio Code
@@ -30,8 +30,22 @@ With the knowledge acquired from this class, I will test whether machine learnin
 - Machine learning packages (nilearn, scikit-learn)
 - Bash Terminal
 
-## Deliverables 
+### Deliverables 
 -  Seed-to-voxel code 
 -  Jupyter notebook containing Linear SVC model and accuracy 
 -  Presentation slides
 -  Project Report
+
+## Results 
+![image](https://user-images.githubusercontent.com/90349544/181355670-ace0976a-4cae-40c4-a38d-f82f1b58c3fe.png)
+Results from the PCA determining the best number of features to include in our model. If this case, 0 features represent the best way to explain the max variance 
+
+#### Results from the Linear SVC classifier 
+       Positive  Negative
+True          6         2
+False         0         8
+
+accuracy (r2) = 0.875
+
+Interpretation: the classifier was able to classify men and women with an accuracy of 87.5% 
+
