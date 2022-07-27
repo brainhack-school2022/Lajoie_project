@@ -38,12 +38,12 @@ With the knowledge acquired from this class, I will test whether machine learnin
 
 ## Results 
 ![image](https://user-images.githubusercontent.com/90349544/181355670-ace0976a-4cae-40c4-a38d-f82f1b58c3fe.png)
+
 Results from the PCA determining the best number of features to include in our model. If this case, 0 features represent the best way to explain the max variance 
 
 #### Results from the Linear SVC classifier 
-       Positive  Negative
-True          6         2
-False         0         8
+
+/home/xlajoie/Pictures/Screenshot from 2022-07-27 15-31-33.png
 
 accuracy (r2) = 0.875
 
