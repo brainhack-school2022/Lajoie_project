@@ -32,6 +32,6 @@ With the knowledge acquired from this class, I will test whether machine learnin
 
 ## Deliverables 
 -  Seed-to-voxel code 
--  Jupyter notebook containing interactive plots and the predictive models with evaluation metrics
+-  Jupyter notebook containing Linear SVC model and accuracy 
 -  Presentation slides
 -  Project Report
