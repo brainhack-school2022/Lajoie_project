@@ -69,4 +69,4 @@ Apart from the main project, participating in Brainhack 2022 has had several ben
 
 
 ### Acknowledgements
-I am immensely grateful to the entire team for all of their assistance and support throughout the course. François, Marie-Ève et Claudéric, thank you for your patience and for not sighing when I asked for help every 5 minutes. Without you, I don't know how I would've survived. 
+I am immensely grateful to the entire team for all of their assistance and support throughout the course. François, Marie-Ève et Claudéric, thank you for your patience and for not sighing when I asked for help every 5 minutes. Without you, I don't know what I would've done. 
