@@ -11,15 +11,11 @@ The rs-fMRI images were issued from the human connectome project (HCP) S1200 rel
 
 With the knowledge acquired from this class, I will test whether machine learning models can accurately classify men and women based on their functional connectivity language maps within the language network. Subsequently, I will determine which are the most discriminant functional connectivity features that allow this classification.
 
-### Plan: 
-1. Make sure all participants have the same number of voxels 
-   - For now : chose the intersection of all masks since each participant has a different brain mask applied :( 
-   - After this class : redo seed-to-voxel correlation and apply the SAME brain mask for all participants 
-2. Start with dimensionality reduction 
-    - Principal Component Analysis
-    - Find the number of features that explain maximum variance 
-3. Linear SVC
-    - Cross-validation 
+#### My objectives 
+- Familiarize myself with different softwares such as Git, Github, WSL
+- Learn how to code with python, specifically for the neuroimaging field
+- Have a better understanding of machine learning and its application in neuroimaging
+- Get comfortable using the terminal to search for files and not the default file system on our laptops
 
 ### Tools, technologies, and libraries I learnt and used for this project:
 - Git
@@ -27,7 +23,7 @@ With the knowledge acquired from this class, I will test whether machine learnin
 - Jupyter Notebook
 - Data Visualization (matplotlib, seaborn, plotly, pywidgets)
 - Machine learning packages (nilearn, scikit-learn)
-- Bash Terminal
+- Bash terminal
 
 ### Deliverables 
 -  Seed-to-voxel code 
@@ -36,6 +32,10 @@ With the knowledge acquired from this class, I will test whether machine learnin
 -  Project Report
 
 ## Results 
+Using the seed-to-voxel correlations of 8 seeds of a sub-sample of 70 participants (40 M, 38 W).
+Model pipeline: 
+
+![image](https://user-images.githubusercontent.com/90349544/181608461-c8786fae-ab75-4604-a479-ab12e8fff9c7.png)
 
 1. Results from the PCA determining the best number of features to include in our model. 
    In this case, 0 features represent the best number of features (basically using the whole brain)
@@ -51,3 +51,22 @@ accuracy (r2) = 0.875
 
 Interpretation: the classifier was able to sucessfully classify men and women with an accuracy of 87.5% 
 
+## Tools Learned During This Project   
+Open Science Software: I learned to use Git for local and remote control in order to share my project repository on Github. I was also able to navigate through different repositories to find the documentation needed for my project. I no longer send codes to myself via email or rely on my USB drive. 
+
+Machine Learning Packages: I have a better understanding of how to use scikit-learn, nilearn and their different modules for machine learning and neuroimaging data manipulations.
+
+Python Scripting: I was able to use different libraries (e.g. numpy, nibabel), code in a virtual environment with Jupyter Notebook. The course modules helped me understand data dimensionality and how to manipulate it.
+
+Data Visualization: I learned to plot multiple static figures with matplotlib and seaborn and to generate interactive figures with plotly and also to plot connectomes like this: 
+
+![image](https://user-images.githubusercontent.com/90349544/181617392-92fb89ec-d210-4aab-a4d2-07f026ca2248.png)
+
+
+### Conclusion
+
+Apart from the main project, participating in Brainhack 2022 has had several benefits. I am more comfortable with shell coding, and the introduction to WSL makes it easier for me to work in Linux environments. I'm looking forward to trying more tools for neuroimaging analysis, such as fMRIprep for preprocessing, machine learning methods to try different classifiers and seed-to-voxel connectivity analyses. Although I've only had a brief introduction to many of these tools, I feel like they are more accessible with the knowledge Brainhack school has given me.
+
+
+### Acknowledgements
+I am immensely grateful to the entire team for all of their assistance and support throughout the course. François, Marie-Ève et Claudéric, thank you for your patience and for not sighing when I asked for help every 5 minutes. Without you, I don't know how I would've survived. 
