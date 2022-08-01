@@ -1,6 +1,6 @@
 # Project Description
 
-#### Backgorund 
+#### Background 
 Sex differences in the language network is a long lasting and unresolved debate in the neuroscience field. Clinical studies have shown that pathologies or developmental conditions affecting language functions can differently affect individuals based on their sex (Cahill, 2006; Icer et al., 2020).
 
 Although the language network is bilaterally organized, the left hemisphere is dominant for language in most individuals (Knect et al., 2000). Differences between men and women in the functional language network could explain sex differences in clinical conditions and offer insight for the development of interventions based on individuals’ characteristics. However, whether and how sex impacts the functional language network organization is still largely unknown
