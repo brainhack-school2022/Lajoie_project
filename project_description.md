@@ -58,7 +58,7 @@ Machine Learning Packages: I have a better understanding of how to use scikit-le
 
 Python Scripting: I was able to use different libraries (e.g. numpy, nibabel), code in a virtual environment with Jupyter Notebook. The course modules helped me understand data dimensionality and how to manipulate it.
 
-Data Visualization: I learned to plot multiple static figures with matplotlib and seaborn and to generate interactive figures with plotly and also to plot connectomes like this: 
+Data Visualization: I learned to plot multiple static figures with matplotlib and seaborn and to generate interactive figures with plotly and also to plot connectomes.
 
 ![image](https://user-images.githubusercontent.com/90349544/181617392-92fb89ec-d210-4aab-a4d2-07f026ca2248.png)
 
