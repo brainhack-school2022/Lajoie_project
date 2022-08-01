@@ -17,14 +17,6 @@ With the knowledge acquired from this class, I will test whether machine learnin
 - Have a better understanding of machine learning and its application in neuroimaging
 - Get comfortable using the terminal to search for files and not the default file system on our laptops
 
-### Tools, technologies, and libraries I learnt and used for this project:
-- Git
-- GitHub
-- Jupyter Notebook
-- Data Visualization (matplotlib, seaborn, plotly, pywidgets)
-- Machine learning packages (nilearn, scikit-learn)
-- Bash terminal
-
 ### Deliverables 
 -  Seed-to-voxel code 
 -  Jupyter notebook containing Linear SVC model and accuracy 
@@ -61,7 +53,6 @@ Python Scripting: I was able to use different libraries (e.g. numpy, nibabel), c
 Data Visualization: I learned to plot multiple static figures with matplotlib and seaborn and to generate interactive figures with plotly and also to plot connectomes.
 
 ![image](https://user-images.githubusercontent.com/90349544/181617392-92fb89ec-d210-4aab-a4d2-07f026ca2248.png)
-
 
 ## Conclusion
 
