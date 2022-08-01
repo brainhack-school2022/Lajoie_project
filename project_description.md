@@ -51,7 +51,7 @@ accuracy (r2) = 0.875
 
 Interpretation: the classifier was able to sucessfully classify men and women with an accuracy of 87.5% 
 
-## Tools Learned During This Project   
+### Tools Learned During This Project   
 Open Science Software: I learned to use Git for local and remote control in order to share my project repository on Github. I was also able to navigate through different repositories to find the documentation needed for my project. I no longer send codes to myself via email or rely on my USB drive. 
 
 Machine Learning Packages: I have a better understanding of how to use scikit-learn, nilearn and their different modules for machine learning and neuroimaging data manipulations.
@@ -63,7 +63,7 @@ Data Visualization: I learned to plot multiple static figures with matplotlib an
 ![image](https://user-images.githubusercontent.com/90349544/181617392-92fb89ec-d210-4aab-a4d2-07f026ca2248.png)
 
 
-### Conclusion
+## Conclusion
 
 Apart from the main project, participating in Brainhack 2022 has had several benefits. I am more comfortable with shell coding, and the introduction to WSL makes it easier for me to work in Linux environments. I'm looking forward to trying more tools for neuroimaging analysis, such as fMRIprep for preprocessing, machine learning methods to try different classifiers and seed-to-voxel connectivity analyses. Although I've only had a brief introduction to many of these tools, I feel like they are more accessible with the knowledge Brainhack school has given me.
 
