@@ -1,6 +1,6 @@
 # rs-fmri sex classification 
 
-### Project Description
+## Project Description
 
 #### Background 
 Sex differences in the language network is a long lasting and unresolved debate in the neuroscience field. Clinical studies have shown that pathologies or developmental conditions affecting language functions can differently affect individuals based on their sex (Cahill, 2006; Icer et al., 2020).
@@ -19,7 +19,7 @@ The rs-fMRI images were issued from the human connectome project (HCP) S1200 rel
 
 With the knowledge acquired from this class, I will test whether machine learning models can accurately classify men and women based on their functional connectivity language maps within the language network. Subsequently, I will determine which are the most discriminant functional connectivity features that allow this classification.
 
-#### My objectives 
+### My objectives 
 - Familiarize myself with different softwares such as Git, Github, WSL
 - Learn how to code with python, specifically for the neuroimaging field
 - Have a better understanding of machine learning and its application in neuroimaging
