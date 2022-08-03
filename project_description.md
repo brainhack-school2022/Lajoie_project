@@ -1,4 +1,6 @@
-# Project Description
+# rs-fmri sex classification 
+
+### Project Description
 
 #### Background 
 Sex differences in the language network is a long lasting and unresolved debate in the neuroscience field. Clinical studies have shown that pathologies or developmental conditions affecting language functions can differently affect individuals based on their sex (Cahill, 2006; Icer et al., 2020).
