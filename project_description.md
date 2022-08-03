@@ -3,7 +3,13 @@
 #### Background 
 Sex differences in the language network is a long lasting and unresolved debate in the neuroscience field. Clinical studies have shown that pathologies or developmental conditions affecting language functions can differently affect individuals based on their sex (Cahill, 2006; Icer et al., 2020).
 
-Although the language network is bilaterally organized, the left hemisphere is dominant for language in most individuals (Knect et al., 2000). Differences between men and women in the functional language network could explain sex differences in clinical conditions and offer insight for the development of interventions based on individuals’ characteristics. However, whether and how sex impacts the functional language network organization is still largely unknown
+Although the language network is bilaterally organized, the left hemisphere is dominant for language in most individuals (Knect et al., 2000). ) This lateralisation tends to vary between sexes (Shaywitz et al., 1995). 
+
+![image](https://user-images.githubusercontent.com/90349544/182665738-d16a1d47-5bb9-4498-aa71-eed6896e738d.png)
+
+
+Differences between men and women in the functional language network could explain sex differences in clinical conditions and offer insight for the development of interventions based on individuals’ characteristics. However, whether and how sex impacts the functional language network organization is still largely unknown
+
 #### Objectives
 In the present project, we address the research question on whether young adult individuals present differences in the pattern of rs-fMRI functional connectivity within the language network based on their sex. To address this issue, we propose to determine whether we can classify healthy young adult men and women, based on their rs-fMRI functional connectivity profiles within the language network. 
 #### Data
